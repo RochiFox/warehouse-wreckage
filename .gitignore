@@ -1,0 +1,12 @@
+# UE Project directories to ignore
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+
+# Visual Studio solutions
+/*.sln
+/*.sdf
+/*.opensdf
+/*.suo
